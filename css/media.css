@@ -489,7 +489,7 @@
 
   .header__search-form {
     position: absolute;
-    z-index: 290;
+    z-index: 1290;
     top: 0;
     right: 0;
     width: calc(100vw - 30px);
