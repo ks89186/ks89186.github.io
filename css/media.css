@@ -376,7 +376,9 @@
     top: calc(45% - 4px);
   }
 
-
+  .header__search-form {
+    top: 7%;
+  }
 
   .about-us__content-bottom {
     padding: 34px 40px;

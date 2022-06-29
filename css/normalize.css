@@ -296,6 +296,10 @@ input[type="search"] {
   border-radius: 0;
 }
 
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
 /**
  * Remove the inner padding in Chrome and Safari on macOS.
  */
